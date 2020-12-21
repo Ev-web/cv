@@ -1,0 +1,35 @@
+h1 {
+  font-family:sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+label {
+  font-family: sans-serif;
+}
+
+a {
+  font-family: sans-serif;
+}
+
+.evimg {
+height: 100px;
+width: 100px;
+float: left;
+margin-right: 28px;
+}
+
+hr {
+  height: 1px width: 100px
+}
+
+.Title_Font {
+  font-family:cursive;
+
+}
+
+.h1_1 {
+  font-family:cursive;
+}
